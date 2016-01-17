@@ -2,35 +2,35 @@
 <resources>
     <string-array name="day_description">
         <item>Brickman na na</item> <!-- 1 -->
-        <item>Magiczna 8</item> <!-- 2 -->
-        <item>Ups...</item> <!-- 3 -->
-        <item>Więcej zieleni proszę</item> <!-- 4 -->
-        <item>Sponsor pomysłów</item> <!--  5 -->
-        <item>Kielbasello</item> <!--  6 -->
-        <item>Powiedz innym o mnie</item> <!--  7 -->
-        <item>Nawet nie wiem co to</item> <!--  8 -->
-        <item>Przerwa techniczna</item> <!--  9 -->
-        <item>Mogę tak cały czas</item> <!--  10 -->
-        <item>Hej! Jesteś ważny!</item> <!--  11 -->
-        <item>Oto moje wnętrze</item> <!--  12 -->
-        <item>Pośmieszkujmy dziś</item> <!--  13 -->
-        <item>Kochaj codziennie</item> <!--  14 -->
-        <item>Mój twórca</item> <!--  15 -->
-        <item>Jesdzenie: jest.</item> <!--  16 -->
+        <item>Magic 8</item> <!-- 2 -->
+        <item>Ups…</item> <!-- 3 -->
+        <item>More green please</item> <!-- 4 -->
+        <item>Sponsor of ideas</item> <!--  5 -->
+        <item>Sausageello</item> <!--  6 -->
+        <item>Tell others about me</item> <!--  7 -->
+        <item>I don\'t even know what it is</item> <!--  8 -->
+        <item>Technical break</item> <!--  9 -->
+        <item>I can do this all day</item> <!--  10 -->
+        <item>Hey! You are important!</item> <!--  11 -->
+        <item>Show your inside</item> <!--  12 -->
+        <item>Let\'s LOL today</item> <!--  13 -->
+        <item>Love everyday</item> <!--  14 -->
+        <item>My creator</item> <!--  15 -->
+        <item>Mea: check.</item> <!--  16 -->
         <item>Wiiii :D</item> <!--  17 -->
-        <item>Ja. Twój. Robot.</item> <!--  18 -->
-        <item>Że jak?!</item> <!--  19 -->
+        <item>I. Your. Robot.</item> <!--  18 -->
+        <item>Say what?!</item> <!--  19 -->
         <item>Kaboom</item> <!--  20 -->
-        <item>Wymyślaj nowe rzeczy</item> <!--  21 -->
-        <item>Wybierasz się może?</item> <!--  22 -->
-        <item>Może szklaneczkę soczku</item> <!--  23 -->
-        <item>Już za parę lat</item> <!--  24 -->
-        <item>Codziennie dzień książki</item> <!--  25 -->
+        <item>Invent new things</item> <!--  21 -->
+        <item>You are going perhaps?</item> <!--  22 -->
+        <item>Maybe a glass of the juice?</item> <!--  23 -->
+        <item>In just a few years</item> <!--  24 -->
+        <item>Book\'s day, everyday</item> <!--  25 -->
         <item>Cza cza cza</item> <!--  26 -->
-        <item>Sam robiłem</item> <!--  27 -->
-        <item>Żyjmy w pokoju</item> <!--  28 -->
-        <item>Rzadko u nas bywa</item> <!--  29 -->
-        <item>Strach przed nieznanym</item> <!--  30 -->
-        <item>Wąsidło</item> <!--  31 -->
+        <item>I made myself</item> <!--  27 -->
+        <item>Live in peace</item> <!--  28 -->
+        <item>Rarely happens with us</item> <!--  29 -->
+        <item>Fear of the unknown</item> <!--  30 -->
+        <item>Whiskersoo</item> <!--  31 -->
     </string-array >
 </resources>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="hello_world">Jestem Twoją nową aplikacją :D</string>
+  <string name="hello_world">I\'m your new app :D</string>
   <string-array name="title">
-    <item>Zdrowia! :D</item>
-    <item>Czytaj dużo dobrych książek</item>
-    <item>Użytkowniku… nie denerwuj się ;)</item>
+    <item>Cheers! :D</item>
+    <item>Read a lot good books</item>
+    <item>User… don\'t be angry ;)</item>
     <item>42</item>
-    <item>Jego imię było chyba 40 i 4</item>
-    <item>Lecimy kurczę tutaj!</item>
-    <item>Obmyślam nowy plan zawsze kiedy… ;)</item>
-    <item>Użytkownik! Ach to Ty… :D</item>
-    <item>To moja droga…gdzie właściwie się udajemy?</item>
-    <item>Może lepiej użyć banana dla skali?</item>
-    <item>Dałbym Ci ziemniaka, ale nie mam</item>
-    <item>Zagadaj do osoby po Twojej prawej stronie.</item>
-    <item>Zaraz będzie ciemno!</item>
+    <item>His name was something 40 and 4</item>
+    <item>We are going here motherducker!</item>
+    <item>Let\'s think about that</item>
+    <item>User... ahh, that\'s you :D</item>
+    <item>That\'s my road... where are we going?</item>
+    <item>Maybe better use banana for scale?</item>
+    <item>I will gave you potato, but I don\'t have one</item>
+    <item>Talk to the person on your right hand side.</item>
+    <item>Soon will be dark!</item>
     <item>For the Horde</item>
-    <item>Wygram z Tobą w Contre</item>
-    <item>Także tego</item>
-    <item>Podnieś głowę i podziwiaj widoki</item>
+    <item>I will win with you in Contra</item>
+    <item>Also this</item>
+    <item>Raise your head and admire the view</item>
     <item>Uwaga na spadające doniczki i wieloryby</item>
     <item>HAL 9000 to mój kuzyn</item>
     <item>Ten niebieski robot z wojny gwiazd to mój idol</item>
