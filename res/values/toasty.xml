@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="toasty_array">
+        <item>Klikaj, nie trzymaj</item>
+        <item>...</item>
+        <item>Gałgan style</item>
+        <item>Mmm.. Karolcia</item>
+        <item>Ałaa</item>
+    </string-array>
+</resources>

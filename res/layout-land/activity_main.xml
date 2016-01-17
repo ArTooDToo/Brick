@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+                android:id="@+id/tlo"
+
+              >
+
+    <TextView
+        android:text="@string/hello_world"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textSize="24dp"
+        android:gravity="center"
+        android:layout_marginTop="20dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cegielka"
+        android:background="@drawable/ceg_1"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView_des"
+        android:layout_marginTop="25dp"
+        android:textSize="24dp"
+        android:layout_below="@+id/cegielka"
+        android:layout_centerHorizontal="true"/>
+
+    <ToggleButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/toggleButton"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textOn=""
+        android:textOff=""
+        android:background="@drawable/check"/>
+
+</RelativeLayout>

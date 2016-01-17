@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="day_description">
+        <item>Brickman na na</item> <!-- 1 -->
+        <item>Magiczna 8</item> <!-- 2 -->
+        <item>Ups...</item> <!-- 3 -->
+        <item>Więcej zieleni proszę</item> <!-- 4 -->
+        <item>Sponsor pomysłów</item> <!--  5 -->
+        <item>Kielbasello</item> <!--  6 -->
+        <item>Powiedz innym o mnie</item> <!--  7 -->
+        <item>Nawet nie wiem co to</item> <!--  8 -->
+        <item>Przerwa techniczna</item> <!--  9 -->
+        <item>Mogę tak cały czas</item> <!--  10 -->
+        <item>Hej! Jesteś ważny!</item> <!--  11 -->
+        <item>Oto moje wnętrze</item> <!--  12 -->
+        <item>Pośmieszkujmy dziś</item> <!--  13 -->
+        <item>Kochaj codziennie</item> <!--  14 -->
+        <item>Mój twórca</item> <!--  15 -->
+        <item>Jesdzenie: jest.</item> <!--  16 -->
+        <item>Wiiii :D</item> <!--  17 -->
+        <item>Ja. Twój. Robot.</item> <!--  18 -->
+        <item>Że jak?!</item> <!--  19 -->
+        <item>Kaboom</item> <!--  20 -->
+        <item>Wymyślaj nowe rzeczy</item> <!--  21 -->
+        <item>Wybierasz się może?</item> <!--  22 -->
+        <item>Może szklaneczkę soczku</item> <!--  23 -->
+        <item>Już za parę lat</item> <!--  24 -->
+        <item>Codziennie dzień książki</item> <!--  25 -->
+        <item>Cza cza cza</item> <!--  26 -->
+        <item>Sam robiłem</item> <!--  27 -->
+        <item>Żyjmy w pokoju</item> <!--  28 -->
+        <item>Rzadko u nas bywa</item> <!--  29 -->
+        <item>Strach przed nieznanym</item> <!--  30 -->
+        <item>Wąsidło</item> <!--  31 -->
+    </string-array >
+</resources>

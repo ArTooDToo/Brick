@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Jestem Twoją nową aplikacją :D</string>
+    <string-array name="title">
+      <item>Zdrowia! :D</item>
+      <item>Czytaj dużo dobrych książek</item>
+      <item>Użytkowniku… nie denerwuj się ;)</item>
+      <item>42</item>
+      <item>Jego imię było chyba 40 i 4</item>
+      <item>Lecimy kurczę tutaj!</item>
+      <item>Obmyślam nowy plan zawsze kiedy… ;)</item>
+      <item>Użytkownik! Ach to Ty… :D</item>
+      <item>To moja droga…gdzie właściwie się udajemy?</item>
+      <item>Może lepiej użyć banana dla skali?</item>
+      <item>Dałbym Ci ziemniaka, ale nie mam</item>
+      <item>Zagadaj do osoby po Twojej prawej stronie.</item>
+      <item>Zaraz będzie ciemno!</item>
+      <item>For the Horde</item>
+      <item>Wygram z Tobą w Contre</item>
+      <item>Także tego</item>
+      <item>Podnieś głowę i podziwiaj widoki</item>
+      <item>Uwaga na spadające doniczki i wieloryby</item>
+      <item>HAL 9000 to mój kuzyn</item>
+      <item>Ten niebieski robot z wojny gwiazd to mój idol</item>
+      <item>Fiu fiu fiu</item>
+      <item>Kto nie ryzykuje ten nie ma</item>
+      <item>Ruszamy</item>
+      <item>Buy it, use it, show it, na na na</item>
+      <item>Wieje jak w kieleckim</item>
+      <item>Powietrzem się nie najem</item>
+      <item>Bazunga!</item>
+      <item>Ciekawe czy Artur wyszedł zdobył Grala</item>
+      <item>Pozdrawiam :D</item>
+      <item>Grafika jest ręczenie robiona.</item>
+      <item>Nie ma żadnego sponsora, dla tej aplikacji</item>
+      <item>A gdyby tak napisać nową ewangelię</item>
+      <item>Kiedyś tworzono hity na lata, a nie na lato</item>
+      <item>Sprawdź co jest za sałatą</item>
+      <item>Walcz z ignorancją</item>
+      <item>Łam zasady</item>
+      <item>Przestrzegaj zasad</item>
+      <item>Twórz własne zasady</item>
+      <item>Spójrz czasem w gwiazdy ;)</item>
+      <item>Powiedz jej coś miłego ;)</item>
+      <item>Powiedz mu coś miłego</item>
+      <item>Zacznij rysować</item>
+      <item>Posłuchaj innego stylu muzycznego</item>
+      <item>Pomarańcze :D</item>
+      <item>Banany też dobre</item>
+      <item>Znowu w akcji</item>
+      <item>Baldzo ploszę ;)</item>
+      <item>Najlepsza na świecie jest… ?</item>
+      <item>Miłość Przyjaźń Muzyka</item>
+      <item>Głupich nie sieją</item>
+      <item>EADG</item>
+      <item>To para gorąca wprawiła to w ruch</item>
+      <item>01000010 01100101 01101110 01100100 01100101 01110010</item><!-- Bender-->
+      <item>Mam co do tego złe przeczucia</item>
+      <item>Zatańcz w deszczu</item>
+      <item>Zadzwoń do babci i dziadka</item>
+      <item>Wykorzystaj swoje dary</item>
+      <item>Jestem prostą aplikacją, jak klikniesz, to Ci pokaże</item>
+      <item>Czasem dobrze jest się wyspać</item>
+      <item>Tak samo, ale inaczej</item>
+      <item>Kamień, nożyczki, papier, jaszczurka, Spock</item>
+      <item>Niech moc będzie z Tobą</item>
+      <item>Nic znaczący napis</item>
+      <item>Na czekoladę nabrałam chęć</item>
+      <item>Dziś jest dziś</item>
+      <item>Gallus gallus</item>
+      <item>Uruchamiaj mnie codziennie ;)</item>
+      <item>Ko ko ko</item>
+      <item>Kiwi kiwi kiwi</item>
+      <item>Dalej!</item>
+      <item>Uff, jak gorąco</item>
+      <item>ARRRRRRR</item>
+      <item>Praca uszlachetnia</item>
+      <item>Praktyka czyni mistrza</item>
+      <item>Cześć księciuniu</item>
+      <item>Czołem! :D</item>
+      <item>Hell Yeah!</item>
+      <item>Czerwony czajnik</item>
+      <item>Wyłącz telewizor, włącz myślenie</item>
+      <item>Proszę ściszyć telewizor</item>
+      <item>Lubię kodować i nie kryje się z tym :D</item>
+      <item>Uhn tiss uhn tiss uhn tiss</item>
+      <item>Róg z gór</item>
+      <item>Nie oglądaj się za siebie…</item>
+      <item>Garnitur, cygaro i whisky</item>
+      <item>I nastał rock</item>
+      <item>Może mały spontan? </item>
+      <item>Jak okręty na niebie</item>
+      <item>Idziemy na przygodę?</item>
+      <item>Szanuj naturę</item>
+      <item>To żyjeee!!!</item>
+      <item>Piękna pogoda, nieprwadaż?</item>
+      <item>Masz kogoś? ;)</item>
+      <item>Oink!</item>
+      <item>Nie ma czasu na wyjaśnienia</item>
+      <item>Przytrzymaj palec na cegiełkach</item>
+      <item>Kłamstwo ma krótkie nogi</item>
+      <item>Magnetofon. Pamiętasz to jeszcze?</item>
+      <item>Sezon na dobry humor uważam za otwarty</item>
+      <item>Poproszę herbatę</item>
+      <item>Powrót do groty króla gór</item>
+      <item>Rób naleśniki, nie wojne</item>
+      <item>Mogę tak działać cały dzień</item>
+      <item>Cmoknij mnie w mój świecący szklany ekran</item>
+      <item>i++</item>
+      <item>Co się działo wczoraj?</item>
+      <item>Zobaczmy. Co dziś możemy porobić?</item>
+      <item>Dziękuję ;)</item>
+      <item>A mogłam zostać Batgirl</item>
+      <item>Krzyknij: Brick, wybieram Cię!</item>
+      <item>O nie, nie, nie :D</item>
+      <item>Wlazł kotek na płotek</item>
+      <item>Jesteś wystarczająco dobrym twardzielem?</item>
+      <item>I zasada. Nie mówimy o mnie.</item>
+      <item>Om nom nom nom</item>
+      <item>Kurrr zapiał</item>
+      <item>Motyla noga</item>
+      <item>Jasny kogut</item>
+      <item>Niech to dunder świśnie</item>
+      <item>Chce być ze wszystkimi</item>
+      <item>Blam blam blam</item>
+      <item>Jest już weekend?</item>
+      <item>Jedz więcej warzyw, ale mięso też ;)</item>
+      <item>Zostań nerdem :D</item>
+      <item>Kiedyś kupie sobię X-winga T-65</item>
+      <item>Już po szkole/pracy? :D</item>
+      <item>Kici kici kici</item>
+      <item>Jest już 17? No to pora na herbatę :D</item>
+      <item>Zrób hałas!</item>
+      <item>Porozmyślaj chwilę, odsapnij.</item>
+      <item>Szykuj się. To znowu ja :)</item>
+      <item>Ciuch ciuch</item>
+      <item>Wojna nigy się nie zmienia…</item>
+      <item>Lewo czy prawo?</item>
+      <item>Wziąć</item>
+      <item>Jestem fajna i wiem o tym</item>
+      <item>Pomóż mojemu twórcy</item>
+      <item>Jaki ładny uśmiech</item>
+      <item>Dawno, dawno temu, gdzieś w Polsce…</item>
+      <item>Hapinus terazus</item>
+      <item>Nie je, nie pije, a żyje :D</item>
+      <item>Powiedz "muuuu"</item>
+      <item>Wyżej</item>
+      <item>Handluj z tym</item>
+      <item>Ymmm.. pizza </item>
+      <item>Następny update, wkrótce ;)</item>
+      <item>Tak jest!</item>
+      <item>Na co mnie ten kaktus?</item>
+      <item>LOL</item>
+      <item>Idziemy na disco?</item>
+      <item>No witam serdercznie</item>
+      <item>Można już lecieć na Marsa?</item>
+      <item>Ula la la</item>
+      <item>Hyc o podłogę</item>
+      <item>Leeerooooyyyy… :D</item>
+      <item>Duże są te góry lodowe tej zimy</item>
+      <item>Mrrrrrr ;)</item>
+      <item>Kirk czy Picard?</item>
+      <item>Jedzonko?</item>
+      <item>Tik tak, tik tak</item>
+      <item>Na fali :)</item>
+      <item>Puk , puk. Kto tam?</item>
+      <item>Jedziemy do Dunwich?</item>
+      <item>Mam księżyc w moim plecaku</item>
+      <item>Carpe diem</item>
+      <item>Carpe noctem</item>
+      <item>EVA-01</item>
+      <item>404</item>
+      <item>Poczuj muzykę</item>
+      <item>Cii…to tajemnica</item>
+      <item>Lubię horrory</item>
+      <item>Boom, headshots</item>
+      <item>Double cheese</item>
+      <item>Nie pamiętam kiedy straciłam rozum</item>
+      <item>Jak myślisz, kim jesteś?</item>
+      <item>Czy jesteśmy sami we wszechświecie?</item>
+      <item>Przez nieznane.</item>
+      <item>Kakao + ciacho. Pychota</item>
+      <item>Kocham fantastykę!</item>
+      <item>Uśmiech jest legalny. Śmiało. Uśmiech się :)</item>
+      <item>Rawwwrr</item>
+      <item>Siła</item>
+      <item>To tylko sen</item>
+      <item>Nie bój się</item>
+      <item>Nie zatrzymuj się, klikaj dalej.</item>
+      <item>Polecam :D</item>
+      <item>Brick tutaj jest! :D</item>
+      <item>Miej dystans do rzeczy</item>
+      <item>Dzień dobry i dobry wieczór</item>
+      <item>Garniec złota jest w </item>
+      <item>Hop</item>
+      <item>Zium</item>
+      <item>Jeśli chcesz to tańcz</item>
+      <item>A co jeśli magia istnieje?</item>
+      <item>Wróciłam :D</item>
+      <item>Odkryto już nowy kolor?</item>
+      <item>Tesla czy Edison?</item>
+      <item>Cip cip cip</item>
+      <item>Mądrości prosto z murów</item>
+      <item>Absurdalny napis</item>
+      <item>enorts ąt w eiN</item>
+      <item>Kto nie tańczy to sztywniak</item>
+      <item>Pokaż </item>
+      <item>Pokaż jej to</item>
+      <item>Pokaż mu to</item>
+      <item>Żarty sytuacyjne są zawsze śmieszne</item>
+      <item>Disco Club nr 6</item>
+      <item>Widzę wszystko w dobrych barwach</item>
+      <item>Słyszeliście o SteamPunku?</item>
+      <item>Bądź kreatywny, drogi użytkowniku</item>
+      <item>Uczyń świat odrobinę lepszym</item>
+      <item>Nie wyrzucaj, przetwarzaj póki się da</item>
+      <item>Ahoj</item>
+      <item>Buduj</item>
+      <item>Gadget Hackwrench jest znajomą mą</item>
+      <item>Gdzie jesteś Panie W.?</item>
+      <item>Już czas zacząć grać</item>
+      <item>Już czas zapalić światła</item>
+      <item>Czuję to</item>
+      <item>Muisz spróbować musaki</item>
+      <item> &#8208;&#8208;&#8249;&#8208;&#8208;@</item>
+      <item>Śmiechłem</item>
+      <item>Cały świat nabiera treści</item>
+      <item>Czujesz las?</item>
+      <item>Już blisko, coraz bliżej</item>
+      <item>To prawie ostatni napis, klikaj dalej</item>
+      <item>Odważ się zaszaleć</item>
+    </string-array>
+</resources>
